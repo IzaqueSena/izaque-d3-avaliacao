@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "izaque-d3-avaliacao", "izaque-d3-avaliacao.csproj", "{DE35F7E8-A200-4363-9896-E8DE7937252F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE35F7E8-A200-4363-9896-E8DE7937252F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE35F7E8-A200-4363-9896-E8DE7937252F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE35F7E8-A200-4363-9896-E8DE7937252F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE35F7E8-A200-4363-9896-E8DE7937252F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A55DEF1E-F8FA-48A1-AA20-AB364495B2EC}
+	EndGlobalSection
+EndGlobal
